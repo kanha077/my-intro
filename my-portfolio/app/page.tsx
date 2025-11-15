@@ -437,7 +437,9 @@ export default function Home() {
             </div>
             <div className="flex items-center gap-3">
               <Linkedin size={20} className="text-slate-900" />
-              <span className="text-slate-600">linkedin.com/in/yourprofile</span>
+              <a href="https://www.linkedin.com/in/yash-vijayvergiya-a1a8a5246" target="_blank" rel="noopener noreferrer" className="text-slate-700 hover:text-slate-900 font-semibold transition-colors">
+                linkedin.com/in/yash-vijayvergiya-a1a8a5246
+              </a>
             </div>
           </div>
         </section>
